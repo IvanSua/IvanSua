@@ -1,4 +1,4 @@
-### Hola Bienvenido, mi nombre es Ivan y estas en mi portafolio.
+### Hola Bienvenido, mi nombre es Ivan y estas en mi pequeño mundo.
 
 
 <div align="center">
